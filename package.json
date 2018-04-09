@@ -15,7 +15,7 @@
     "@babel/plugin-proposal-object-rest-spread": "^7.0.0-beta.40",
     "@babel/preset-env": "^7.0.0-beta.40",
     "@babel/preset-react": "^7.0.0-beta.40",
-    "babel-eslint": "^7.2.3",
+    "babel-eslint": "^8.2.2",
     "babel-loader": "^8.0.0-beta.2",
     "clean-webpack-plugin": "^0.1.19",
     "css-loader": "^0.28.10",
@@ -28,7 +28,7 @@
     "style-loader": "^0.20.3",
     "webpack": "^4.1.1",
     "webpack-cli": "^2.0.12",
-    "webpack-serve": "^0.2.0"
+    "webpack-serve": "^0.3.1"
   },
   "dependencies": {
     "prop-types": "^15.6.1",
